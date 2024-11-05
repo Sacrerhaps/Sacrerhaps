@@ -1,6 +1,4 @@
-Hi There...
-
-<h1 align="center">Hi 👋, I'm Fatih Dağ</h1>
+<h1 align="center">Hi I'm Fatih Dağ</h1>
 <h3 align="center">A Web Developer from Türkiye</h3>
 
 - 🔭 I’m currently working on *Oracle Web Project*
